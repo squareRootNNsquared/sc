@@ -14,13 +14,13 @@ import socket
 ### Define "socket" instance with appropriate parameters
 com_str1 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 #### Establish connection to device; ("address", "Local Port" setting via "Serial" tab)
-com_str1.connect(("dax-str1.physics.ucdavis.edu",1999))
+com_str1.connect(("",1))
 
 ### str2
 ### Define "socket" instance with appropriate parameters
 com_str2 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 ### Establish connection to device; ("address", "Local Port" setting via "Serial" tab)
-com_str2.connect(("dax-str2.physics.ucdavis.edu",2000))
+com_str2.connect(("1",2))
 
 ###
 ### Create table in database for device

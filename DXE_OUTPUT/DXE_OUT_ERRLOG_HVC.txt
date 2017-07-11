@@ -1,0 +1,21 @@
+Error Code: 118.000000	Date(yr-mo-dy):2015-06-24 ... Time(24hr):17:18:36
+Error Code: 118.000000	Date(yr-mo-dy):2015-07-01 ... Time(24hr):13:33:12	Unit:Positive
+Error Code: 118.000000	Date(yr-mo-dy):2015-07-01 ... Time(24hr):13:35:05	Unit:Positive
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):14:35:31	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):14:38:19	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:16:12	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:17:12	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:17:35	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:26:15	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:26:57	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:27:12	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:27:48	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:31:17	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09 ... Time(24hr):15:35:51	Unit:Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09:Time(24hr):17:15:24	Unit: Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09:Time(24hr):17:20:47	Unit: Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09:Time(24hr):17:33:02	Unit: Positive
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09:Time(24hr):17:33:02	Unit: Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09:Time(24hr):17:37:47	Unit: Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09:Time(24hr):17:38:49	Unit: Negative
+Error Code: 10.000000	Date(yr-mo-dy):2015-07-09:Time(24hr):17:43:46	Unit: Negative

@@ -1,0 +1,12 @@
+ERROR:root: ! ! ! ! TERMINATING ERROR during INITIALIZATION of CAP1 at 17:31:09 2016-06-15 ! ! ! ! 
+Traceback (most recent call last):
+  File "/home/sc/Desktop/DXE/DXE_SC.py", line 154, in <module>
+    exec(initializations[initializations.keys()[i]][2])
+  File "<string>", line 2, in <module>
+  File "/home/sc/Desktop/DXE/DXE_LIB_CAP1_INI.py", line 11, in <module>
+    com_cap1 = ser.Serial('/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_A1001DAs-if00-port0')
+  File "/usr/local/lib/python2.7/dist-packages/serial/serialutil.py", line 282, in __init__
+    self.open()
+  File "/usr/local/lib/python2.7/dist-packages/serial/serialposix.py", line 289, in open
+    self.fd = os.open(self.portstr, os.O_RDWR|os.O_NOCTTY|os.O_NONBLOCK)
+OSError: [Errno 2] No such file or directory: '/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_A1001DAs-if00-port0'

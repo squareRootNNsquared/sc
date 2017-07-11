@@ -70,7 +70,7 @@ op_plt = 1
 ### Verizon:	V [[Gateway confirmed, potential format issues]]
 ###	Virgin:		I [[Gateway confirmed, format OK]]
 ###
-emailList = ["nenunez@ucdavis.edu","2095592631_A"]
+emailList = []
 
 ###
 ###	Universal Parameters

@@ -26,7 +26,7 @@ def path():### path() returns current directory in string format
 ### MYSQL VESRION (p/w handling insecure?)
 ###
 ### Create/Open database, Create query cursor (database interactor)
-db = MySQLdb.connect(host="localhost",user="DAX_admin",passwd="AppleGrassyIodineWound",db="DXE_DB")
+db = MySQLdb.connect(host="localhost",user="",passwd="",db="DXE_DB")
 qc = db.cursor()
 
 ###

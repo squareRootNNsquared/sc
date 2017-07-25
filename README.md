@@ -9,7 +9,7 @@ Intended Platform:	Ubuntu 14.04 LTS
 Programming Language:	python 2.7 (written in 2.7.9)
 Required python packages:	pyserial, matplotlib, pylab, numpy, python-mysqldb
 
-DXE_SC.py is the center of this Slow Control program that references library files in the programs root folder. The program is intended to be continuously ran, and while doing so continuously collects data pertaining to the instruments involved.
+DXE_SC.py is the center of this Slow Control program that references library files in the program's root folder. The program is intended to be continuously ran, and while doing so continuously collects data pertaining to the instruments involved.
 
 DXE_PLT.py is a program that generates plots of the data collected by DXE_SC.py. Files beginning with DXE_LIB are not intended to be exectued directly.
 
